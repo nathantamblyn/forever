@@ -31,7 +31,9 @@
     "object-assign": "^4.1.1",
     "prettyjson": "^1.2.2",
     "shush": "^1.0.0",
-    "winston": "3.3.3"
+    "winston": "3.13.0",
+    "logform": "2.3.2",
+    "@dabh/diagnostics": "2.0.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
